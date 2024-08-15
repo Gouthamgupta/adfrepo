@@ -1,0 +1,9 @@
+{
+	"name": "gouthamgithubadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ffc6cb1c-191c-43a2-a20a-fb32a76780ae",
+		"tenantId": "4e22491c-b306-48d9-80c8-debeb11e40ec"
+	}
+}
